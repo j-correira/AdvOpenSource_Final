@@ -1,0 +1,25 @@
+{
+  "name": "Example",
+  "description": "Example",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "request": "2.81.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-correira/discordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-correira/discordBot/issues"
+  },
+  "homepage": "https://github.com/j-correira/discordBot#readme"
+}
