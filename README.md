@@ -3,7 +3,7 @@ Deliverable for Advanced Open Source Web Development Final Project
 
 
 
-* Building a Discord bot using Node.JS & Heroku *
+Building a Discord bot using Node.JS & Heroku
 =============================================
 
 
