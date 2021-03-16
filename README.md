@@ -24,3 +24,5 @@ Tutorials/Resources Used
 • (Initial Bot Setup Within Discord) https://discordpy.readthedocs.io/en/latest/discord.html
 
 
+
+
