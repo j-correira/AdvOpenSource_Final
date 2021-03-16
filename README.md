@@ -8,9 +8,9 @@ Building a Discord bot using Node.JS & Heroku
 
 
 
-Video Presentation 
+PowerPoint Presentation 
 ------------------
-
+https://drive.google.com/file/d/1OWyr69wOZEbFUXDox9wOJuDLGG9x72JI/view?usp=sharing
 
 
 
