@@ -14,7 +14,7 @@ client.once('ready', () => {
 /////////////
 // role names
 // @haha BR go brrrbrrr
-// @car soccer or some shit
+// @car soccer
 // @blockybois
 // @EFT
 
@@ -88,15 +88,6 @@ if (message.content === `${prefix}ping`) {
 
 else if (message.content === `${prefix}beep`) {
 	message.channel.send('Boop!');
-}
-
-////////////
-// hoobie
-else if (message.content === `${prefix}hoobie`) {
-    message.channel.send('Doobie')
-    .then(message=> {
-        cleanup(message)
-    })
 }
 
 ////////////
